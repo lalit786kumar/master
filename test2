@@ -1,3 +1,7 @@
 this need to be done
 this file is updated by Jeff
-this file is updated by herry1
+<<<<<<< HEAD
+this file is updated by herry
+=======
+this file is updated by herry
+>>>>>>> 8fa69cf763a2e6c29da2012302dd6537eace0964
